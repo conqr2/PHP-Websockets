@@ -1,3 +1,7 @@
+Forked From ghedipunk
+=============
+Original Content:
+
 PHP WebSockets
 ==============
 
